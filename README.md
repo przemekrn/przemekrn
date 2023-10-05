@@ -11,7 +11,7 @@ src="https://64.media.tumblr.com/108b905ae7539844fa450670869ee8c6/52fb4da17664a0
 - 🚀 Git to narzędzie, bez którego nie wyobrażam sobie pracy z kodem.
 - ⚙️ Język programowania C# jest jednym z moich ulubionych, a tworzenie gier w [Unity](https://unity.com/) to moje hobby.
 
-## Technologie, z którymi najczęściej pracuję
+## Języki i narzędzia 
 <img align="left" alt="Visual Studio Code" width="26px"
 src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Visual Studio" width="26px"
