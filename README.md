@@ -3,7 +3,7 @@
 ## O mnie
 - Jestem Przemek, student informatyki, który dąży do tego, aby w przyszłości zostać zawodym programistą.
 - Stale uczę się i szukam nowych sposobów na doskonalenie moich umiejętności.
-<img align="right" alt="" width="150"
+<img align="right" alt="" width="250"
 src="https://64.media.tumblr.com/108b905ae7539844fa450670869ee8c6/52fb4da17664a093-4d/s640x960/b916661245fae0311813a633d32abd601b13b2e2.gif">
 
 # Technologie, z którymi najczęściej pracuję
