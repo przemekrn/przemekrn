@@ -23,7 +23,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982
 <style>
   @media screen and (max-width: 800px) {
     div.align-center img {
-      width: 80%; 
+      width: 25%; 
     }
   }
 </style>
