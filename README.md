@@ -3,9 +3,9 @@
 ## O mnie
 - Jestem Przemek, student informatyki, który dąży do tego, aby w przyszłości zostać zawodym programistą.
 - Stale uczę się i szukam nowych sposobów na doskonalenie moich umiejętności.
-<div align="center">
-  <img src="https://64.media.tumblr.com/108b905ae7539844fa450670869ee8c6/52fb4da17664a093-4d/s640x960/b916661245fae0311813a633d32abd601b13b2e2.gif" alt="" width="60%" />
-</div>
+
+  <img src="https://64.media.tumblr.com/108b905ae7539844fa450670869ee8c6/52fb4da17664a093-4d/s640x960/b916661245fae0311813a633d32abd601b13b2e2.gif" align="right" alt="" width="75%" />
+
 
 # Technologie, z którymi najczęściej pracuję
 - 💻 Moje ulubione środowisko programistyczne to [Visual Studio Code](https://code.visualstudio.com/), ale także korzystam z [Visual Studio](https://visualstudio.microsoft.com/).
@@ -22,7 +22,7 @@ src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982
 
 <style>
   @media screen and (max-width: 800px) {
-    div.align-center img {
+    img {
       width: 25%; 
     }
   }
