@@ -4,7 +4,7 @@
 - Jestem Przemek, student informatyki, który dąży do tego, aby w przyszłości zostać zawodym programistą.
 - Stale uczę się i szukam nowych sposobów na doskonalenie moich umiejętności.
 
-  <img src="https://64.media.tumblr.com/108b905ae7539844fa450670869ee8c6/52fb4da17664a093-4d/s640x960/b916661245fae0311813a633d32abd601b13b2e2.gif" align="right" alt="" width="75%" />
+  <img src="https://64.media.tumblr.com/108b905ae7539844fa450670869ee8c6/52fb4da17664a093-4d/s640x960/b916661245fae0311813a633d32abd601b13b2e2.gif" align="right" alt="" width="40%" />
 
 
 # Technologie, z którymi najczęściej pracuję
