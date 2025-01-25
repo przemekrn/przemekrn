@@ -1,18 +1,64 @@
 # Witaj na moim GitHubie! 👋
 
 ## O mnie
-- Jestem Przemek, student informatyki, który dąży do tego, aby w przyszłości zostać zawodowym programistą.
-- Stale uczę się i szukam nowych sposobów na doskonalenie moich umiejętności.
 
-  <img src="https://64.media.tumblr.com/108b905ae7539844fa450670869ee8c6/52fb4da17664a093-4d/s640x960/b916661245fae0311813a633d32abd601b13b2e2.gif" align="right" alt="" width="25%" />
+Jestem studentem informatyki z pasją do analizy danych, Big Data oraz tworzenia oprogramowania.Moje zainteresowania zawodowe skupiają się wokół **Data Analysis** i **Data Science**.
 
+Dodatkowo rozwijam się w obszarze **tworzenia gier**  co traktuję jako hobby i sposób na rozwijanie kreatywności.
 
-## Języki i narzędzia 
-<img align="left" alt="Visual Studio Code" width="26px"
-src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/vscode/vscode-original.svg" style="padding-right:10;" />
-<img align="left" alt="Visual Studio" width="26px"
-src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/visualstudio/visualstudio-plain.svg" style="padding-right:10;" />
-
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/apps/xamarin" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="jupyter" width="40" height="40"/> </a> </p>
+Stale poszerzam swoją wiedzę, zarówno od strony technicznej, jak i ekonomicznej, aby lepiej rozumieć kontekst biznesowy i potrzeby rynku. Moim celem jest łączenie umiejętności technicznych z analitycznym myśleniem, aby tworzyć wartościowe rozwiązania.
 
 
+
+
+---
+
+## Moje główne obszary zainteresowań
+- **Data Analysis i Data Science**:
+  - Eksploracja i wizualizacja danych.
+  - Tworzenie modeli predykcyjnych.
+  - Optymalizacja procesów biznesowych poprzez analizę danych.
+  - Analiza ekonomiczna: Badanie wpływu czynników makroekonomicznych na wyniki biznesowe, analiza ryzyka oraz symulacje scenariuszy ekonomicznych
+  - Statystyka: Zaawansowane metody statystyczne, takie jak analiza regresji, testy hipotez oraz analiza wariancji (ANOVA)
+- **Tworzenie oprogramowania**:
+  - Rozwój aplikacji webowych i mobilnych.
+  - Tworzenie gier w Unity (C#).
+- **Big Data**:
+  - Przetwarzanie i analiza dużych zbiorów danych: Wykorzystanie narzędzi takich jak Hadoop, Spark oraz platform chmurowych do przetwarzania i analizy danych w czasie rzeczywistym.
+  - Integracja danych: Łączenie danych z różnych źródeł (CRM, ERP, bazy danych) w celu uzyskania kompleksowego obrazu sytuacji biznesowej.
+- **Zarządzanie projektami**:
+  - **Modelowanie procesów biznesowych**: Tworzenie diagramów przepływu danych (DFD), diagramów UML oraz modeli procesów biznesowych.
+  - **Zarządzanie cyklem życia projektu**: Znajomość metodologii zarządzania projektami, takich jak Agile, Scrum oraz Waterfall.
+  - **Inżynieria oprogramowania**: Praktyczna wiedza z zakresu projektowania systemów, testowania oprogramowania oraz zarządzania wymaganiami.
+  - **Zarządzanie ryzykiem**: Identyfikacja, analiza i minimalizacja ryzyka w projektach IT.
+---
+
+## Technologie i narzędzia
+### **Języki programowania**
+- **Python**: Pandas, NumPy, Matplotlib, Seaborn.
+- **R**: Tidyverse.
+- **Java**: Podstawy programowania obiektowego.
+- **C#**: .NET Framework,Unity, ASP.NET Core,Entity Framework.
+- **SQL**: MySQL, MS SQL, T-SQL.
+
+### **Narzędzia**
+- **Visual Studio**: Główny edytor do pracy z C# i .NET.
+- **Jupyter Notebook**: Do analizy danych i eksperymentów z Pythonem.
+- **JetBrains IDE**: IntelliJ IDEA, PyCharm oraz Rider.
+- **Git**: Kontrola wersji i współpraca nad projektami.
+- **Docker**: Konteneryzacja aplikacji i zarządzanie środowiskami developerskimi
+
+### **Inne**
+- **Unity**: Tworzenie gier i aplikacji 3D.
+- **Big Data**: Hadoop, Spark (podstawy).
+- **Bazy danych**: MySQL, MS SQL Server.
+
+---
+
+## Kontakt
+Jeśli chcesz się ze mną skontaktować lub dowiedzieć się więcej o moich projektach, zapraszam na mój profil LinkedIn:  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/przemysław-rumin-a38051273/)
+
+---
+
+Dziękuję za odwiedzenie mojego profilu! 🚀
