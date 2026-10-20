@@ -4,7 +4,6 @@
 
 Jestem studentem informatyki z pasją do analizy danych, Big Data oraz tworzenia oprogramowania.Moje zainteresowania zawodowe skupiają się wokół **Data Analysis** i **Data Science**.
 
-Dodatkowo rozwijam się w obszarze **tworzenia gier**  co traktuję jako hobby i sposób na rozwijanie kreatywności.
 
 Stale poszerzam swoją wiedzę, zarówno od strony technicznej, jak i ekonomicznej, aby lepiej rozumieć kontekst biznesowy i potrzeby rynku. Moim celem jest łączenie umiejętności technicznych z analitycznym myśleniem, aby tworzyć wartościowe rozwiązania.
 
